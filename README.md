@@ -1,1 +1,3 @@
-# excelanalyze
+fileclassfier 可以按照檔名把類似檔名分到同一個資料夾
+fileorganizer 可以依照使用者輸入數字，把多少個檔案放入同一資料夾
+excelanalyze 可以分析生物實驗前後，生物對刺激反應的程度並作圖
